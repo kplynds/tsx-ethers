@@ -2,3 +2,7 @@
 interface Window {
     ethereum: any
 }
+
+// interface etherData {
+
+// }
